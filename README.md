@@ -2,7 +2,9 @@
 
 https://goodhiboy.github.io
 
-2026年3月25日更新：确认可用，详情可看<a href="https://goodhiboy.github.io/strongvpn/" target="_blank">StrongVPN每日测速报告-20260321</a>，国内设置教程：https://github.com/GoodHiBoy/goodhiboy.github.io/blob/main/strongvpn/setup/README.md  
+2026年3月25日更新：  
+确认可用，详情可看<a href="https://goodhiboy.github.io/strongvpn/" target="_blank">StrongVPN每日测速报告-20260321</a>
+国内V1客户端暂时不太好用，使用WireGuard协议客户端可用，详细教程请看：https://github.com/GoodHiBoy/goodhiboy.github.io/blob/main/strongvpn/setup/README.md  
 
 **建议Windows、Mac和Android设备用户在官网的右下角找在线客服(Technical Support)获取精简客户端V1 app**（本文后文有使用教程），这个版本适合在中国使用，国内可以连接的节点线路较多，但线路的网络速度要自己测试，有些线路的速度不错，有些线路网络速度就一般。**在国内使用精简客户端V1 app的OpenVPN协议（TCP或UDP）连接成功率一直很高**（在敏感时期比标准客户端连接也更加稳定），而官方通用客户端版本在敏感时期有时会遇到连接问题，需等待版本或线路更新才能恢复正常。目前有优惠码可使用（下方文中查看）。另外iOS系统由于其系统的封闭性，客户端只能在AppStore上下载国际通用版，如果被封锁后，可以联系在线客服获取备用连接方法。  
 
