@@ -21,7 +21,8 @@
 
 **亚太优化节点**：虽然通过StrongVPN官网下载的客户端无法直接使用，在中国需要下载WireGuard客户端配合StrongVPN的WireGuard协议，可以轻松连接到香港、台湾、日本、新加坡等近距离优质服务器。这些节点延迟极低，是刷4K的YouTube视频的首选。
 
-## StrongVPN在中国连接实测结果：StrongVPN怎么样？    
+## StrongVPN在中国连接实测结果：StrongVPN怎么样？   
+详细StrongVPN测速测评详见：https://goodhiboy.github.io/strongvpn/
 ### 2026-03-22 晚22:00 更新  
 StrongVPN Windows 10 系统使用WireGuard客户端测试情况。中国电信500M，新加坡节点（str-sin303），WireGuard客户端，一次连接成功，可以打开谷歌。speedtest测速：延迟243ms，下载速度8.62Mbps，上传速度46.53Mbps，截图如下：  
 <img src="https://goodhiboy.github.io/img/strongvpn/20260322-2.png" width="300" alt="strongvpn Windows WireGuard 客户端连接新加坡节点测速">  
