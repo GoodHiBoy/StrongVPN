@@ -23,16 +23,12 @@
 
 ## StrongVPN在中国连接实测结果：StrongVPN怎么样？   
 详细StrongVPN测速测评详见：https://goodhiboy.github.io/strongvpn/
-### 2026-03-22 晚22:00 更新  
-StrongVPN Windows 10 系统使用WireGuard客户端测试情况。中国电信500M，新加坡节点（str-sin303），WireGuard客户端，一次连接成功，可以打开谷歌。speedtest测速：延迟243ms，下载速度8.62Mbps，上传速度46.53Mbps，截图如下：  
-<img src="https://goodhiboy.github.io/img/strongvpn/20260322-2.png" width="300" alt="strongvpn Windows WireGuard 客户端连接新加坡节点测速">  
-观看YouTube（4k@60） ,流畅无卡顿，截图如下：  
-<img src="https://goodhiboy.github.io/img/strongvpn/20260322-3.png" width="300" alt="strongvpn Windows WireGuard 客户端连接新加坡节点 观看YouTube（1080P@60） 流畅无卡顿">  
-在闲时（早晨6:00），观看YouTube 4k影片，毫无压力，截图如下：  
-<img src="https://goodhiboy.github.io/img/strongvpn/20260323-1.png" width="300" alt="strongvpn Windows WireGuard 客户端连接新加坡节点 观看YouTube（4k@60） 流畅无卡顿">  
-### 2026-03-21 更新  
-StrongVPN iOS 26 系统使用WireGuard客户端测试情况。 中国电信 5G，日本节点（str-nrt301），WireGuard 客户端，一次连接成功，可以打开谷歌。speedtest测速：延迟201ms，下载速度32.99Mbps，上传速度9.24Mbps，截图如下：  
-<img src="https://goodhiboy.github.io/img/strongvpn/20260321-3.PNG" width="300" alt="strongvpn iOS WireGuard 客户端连接日本节点测速">   
+## 2026-03-30 21:30 更新  
+### StrongVPN Windows 系统使用 WireGuard 客户端测试情况  
+1，中国电信500M，日本节点（str-ntr301），WireGuard 客户端，，观看YouTube 2k影片，毫无压力，截图如下：  
+<img src="https://goodhiboy.github.io/img/strongvpn/20260330-1.png" width="600" alt="strongvpn Windows WireGuard 客户端连接日本节点 观看YouTube（1440P@60） 流畅无卡顿">  
+2，中国电信500M，马来西亚节点（str-kul303），WireGuard 客户端，，观看YouTube 2k影片，毫无压力，截图如下：  
+<img src="https://goodhiboy.github.io/img/strongvpn/20260330-2.png" width="600" alt="strongvpn Windows WireGuard 客户端连接马来西亚节点 观看YouTube（1440P@60） 流畅无卡顿">  
 ## 为什么不能使用国内ss等梯子？  
 不建议使用国内SS或其他所谓的“私人机场/梯子”，主要基于以下三个方面的风险：  
 
