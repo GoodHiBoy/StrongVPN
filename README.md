@@ -1,6 +1,6 @@
 # StrongVPN官网怎么样，2026年在中国还能用吗？
 
-**最后更新** `2026/4/6`  |  **测评人** `老王(9年VPN依赖者)`   
+**最后更新** `2026/4/12`  |  **测评人** `老王(9年VPN依赖者)`   
 
 相信很多点进这篇文章的读者，心中都带着几个迫切的疑问：StrongVPN在中国还能用吗？StrongVPN怎么样？甚至是刚买完就遇到StrongVPN连不上了怎么办？ 在2026年GFW依然严峻的网络环境下，选择一款靠谱的科学上网工具变越来越困难。如果你近期在国内有使用VPN的刚需，或者正准备通过StrongVPN官网购买VPN服务，或者是刚下载完StrongVPN安卓版却发现无法连接，那么这篇深度实测报告会帮助你。  
 
@@ -22,20 +22,19 @@
 **亚太优化节点**：虽然通过StrongVPN官网下载的客户端无法直接使用，在中国需要下载WireGuard客户端配合StrongVPN的WireGuard协议，可以轻松连接到香港、台湾、日本、新加坡等近距离优质服务器。这些节点延迟极低，是刷4K的YouTube视频的首选。
 
 ## StrongVPN在中国连接实测结果：StrongVPN怎么样？   
-详细StrongVPN测速测评详见：https://goodhiboy.github.io/strongvpn/
+详细StrongVPN测速测评详见：https://goodhiboy.github.io/strongvpn/  
 
+## 2026-04-12 22:15 更新  
+### StrongVPN Windows 系统使用 WireGuard 客户端测试情况  
+1，中国电信500M，日本节点（str-ntr301），WireGuard 客户端，观看YouTube 4k影片，毫无压力，截图如下：  
+<img src="https://goodhiboy.github.io/img/strongvpn/20260412-3.png" width="600" alt="strongvpn Windows WireGuard 客户端连接日本节点 观看YouTube（4k@60） 流畅无卡顿">  
+2，中国电信500M，韩国节点（str-sel202），WireGuard 客户端，观看YouTube 4k影片，毫无压力，截图如下：  
+<img src="https://goodhiboy.github.io/img/strongvpn/20260412-4.png" width="600" alt="strongvpn Windows WireGuard 客户端连接韩国节点 观看YouTube（4k@60） 流畅无卡顿">  
 ## 2026-04-06 9:30 更新  
 ### StrongVPN Mac 系统使用 WireGuard 客户端测试情况  
 中国电信500M，马来西亚节点（str-kul303），WireGuard 客户端，观看YouTube 4k影片，毫无压力，截图如下：  
 <img src="https://goodhiboy.github.io/img/strongvpn/20260406-3.png" width="600" alt="strongvpn Windows WireGuard 客户端连接马来西亚节点 观看YouTube（4k@60） 流畅无卡顿">  
-## 2026-04-02 22:00 更新  
-### StrongVPN Windows 系统使用 WireGuard 客户端测试情况  
-中国电信500M，德国法兰克福节点（str-fra305），WireGuard 客户端，观看YouTube 4k影片，毫无压力，截图如下：  
-<img src="https://goodhiboy.github.io/img/strongvpn/20260402-1.png" width="600" alt="strongvpn Windows WireGuard 客户端连接德国法兰克福节点 观看YouTube（4k@60） 流畅无卡顿">  
-## 2026-03-30 21:30 更新  
-### StrongVPN Windows 系统使用 WireGuard 客户端测试情况  
-中国电信500M，日本节点（str-ntr301），WireGuard 客户端，，观看YouTube 2k影片，毫无压力，截图如下：  
-<img src="https://goodhiboy.github.io/img/strongvpn/20260330-1.png" width="600" alt="strongvpn Windows WireGuard 客户端连接日本节点 观看YouTube（1440P@60） 流畅无卡顿">  
+
 ## 为什么不能使用国内ss等梯子？  
 不建议使用国内SS或其他所谓的“私人机场/梯子”，主要基于以下三个方面的风险：  
 
