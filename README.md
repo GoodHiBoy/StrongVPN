@@ -1,6 +1,6 @@
 # StrongVPN官网怎么样，2026年在中国还能用吗？
 
-**最后更新** `2026/4/15`  |  **测评人** `老王(9年VPN依赖者)`   
+**最后更新** `2026/4/21`  |  **测评人** `老王(9年VPN依赖者)`   
 
 相信很多点进这篇文章的读者，心中都带着几个迫切的疑问：StrongVPN在中国还能用吗？StrongVPN好用吗？StrongVPN怎么样？甚至是刚买完就遇到StrongVPN连不上了怎么办？ 在2026年GFW依然严峻的网络环境下，选择一款靠谱的科学上网工具变越来越困难。如果你近期在国内有使用VPN的刚需，或者正准备通过StrongVPN官网购买VPN服务，或者是刚下载完StrongVPN安卓版却发现无法连接，那么这篇深度实测报告会帮助你。  
 
@@ -24,11 +24,13 @@
 ## StrongVPN在中国连接实测结果：StrongVPN怎么样？   
 详细StrongVPN测速测评详见：https://goodhiboy.github.io/strongvpn/  
 
+## 2026-04-21 20:15 更新  
+### Surfshark Windows 10 系统使用 Surfshark 6.7.0 客户端测试情况  
+中国电信500M宽带，日本节点，使用的是WireGuard协议，一次连接成功。观看4k YouTube，流畅无卡顿  
+<img src="https://goodhiboy.github.io/img/20260421-1.png" width="800" alt="2026-04-08 surfshark 客户端连接日本节点观看YouTube">  
 ## 2026-04-12 22:15 更新  
 ### StrongVPN Windows 系统使用 WireGuard 客户端测试情况  
-1，中国电信500M，日本节点（str-ntr301），WireGuard 客户端，观看YouTube 4k影片，毫无压力，截图如下：  
-<img src="https://goodhiboy.github.io/img/strongvpn/20260412-3.png" width="600" alt="strongvpn Windows WireGuard 客户端连接日本节点 观看YouTube（4k@60） 流畅无卡顿">  
-2，中国电信500M，韩国节点（str-sel202），WireGuard 客户端，观看YouTube 4k影片，毫无压力，截图如下：  
+中国电信500M，韩国节点（str-sel202），WireGuard 客户端，观看YouTube 4k影片，毫无压力，截图如下：  
 <img src="https://goodhiboy.github.io/img/strongvpn/20260412-4.png" width="600" alt="strongvpn Windows WireGuard 客户端连接韩国节点 观看YouTube（4k@60） 流畅无卡顿">  
 ## 2026-04-06 9:30 更新  
 ### StrongVPN Mac 系统使用 WireGuard 客户端测试情况  
