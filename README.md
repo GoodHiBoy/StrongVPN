@@ -24,10 +24,10 @@
 ## StrongVPN在中国连接实测结果：StrongVPN怎么样？   
 详细StrongVPN测速测评详见：https://goodhiboy.github.io/strongvpn/  
 
-## 2026-04-21 20:15 更新  
-### Surfshark Windows 10 系统使用 Surfshark 6.7.0 客户端测试情况  
-中国电信500M宽带，日本节点，使用的是WireGuard协议，一次连接成功。观看4k YouTube，流畅无卡顿  
-<img src="https://goodhiboy.github.io/img/20260421-1.png" width="800" alt="2026-04-08 surfshark 客户端连接日本节点观看YouTube">  
+## 2026-04-21 20:30 更新  
+### StrongVPN Windows 系统使用 WireGuard 客户端测试情况  
+1，中国电信500M，韩国节点（str-sel302），WireGuard 客户端，观看YouTube 4k影片，毫无压力，截图如下：  
+<img src="https://goodhiboy.github.io/img/strongvpn/20260421-2.png" width="600" alt="strongvpn Windows WireGuard 客户端连接韩国节点 观看YouTube（4k@60） 流畅无卡顿">  
 ## 2026-04-12 22:15 更新  
 ### StrongVPN Windows 系统使用 WireGuard 客户端测试情况  
 中国电信500M，韩国节点（str-sel202），WireGuard 客户端，观看YouTube 4k影片，毫无压力，截图如下：  
