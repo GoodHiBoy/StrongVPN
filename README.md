@@ -24,6 +24,10 @@
 ## StrongVPN在中国连接实测结果：StrongVPN怎么样？   
 详细StrongVPN测速测评详见：https://goodhiboy.github.io/strongvpn/  
 
+## 2026-05-11 23:00 更新  
+### StrongVPN Windows 系统使用 WireGuard 客户端测试情况  
+1，中国电信500M，美国洛杉矶节点（str-lax311），WireGuard 客户端，观看YouTube 4k影片，毫无压力，截图如下：  
+<img src="https://goodhiboy.github.io/img/strongvpn/20260511-1.png" width="600" alt="strongvpn Windows WireGuard 客户端连接美国洛杉矶节点 观看YouTube（4k@60） 流畅无卡顿">  
 ## 2026-04-21 20:30 更新  
 ### StrongVPN Windows 系统使用 WireGuard 客户端测试情况  
 1，中国电信500M，韩国节点（str-sel302），WireGuard 客户端，观看YouTube 4k影片，毫无压力，截图如下：  
